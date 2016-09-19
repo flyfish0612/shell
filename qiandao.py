@@ -40,8 +40,8 @@ header = {
 url = 'http://123.206.92.65/web/useraction.php?a=dologin'  
 opener = getOpener(header)  
   
-id = '314132406'  
-password = 'LOVE0612'  
+id = 'xxxxxxx'  
+password = 'xxxxxx'  
 postDict = {  
         'qq': id,  
         'pass': password,  
