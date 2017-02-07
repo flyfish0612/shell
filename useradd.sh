@@ -1,5 +1,5 @@
 #!/bin/bash
-user="stu"
+user="stutest"
 i=1
 while [ $i -le 20 ]
 do
